@@ -45,3 +45,4 @@ for temp in temperatures1[:day_counter-1]:
 print(f"Hot Days before alert: {count}")
 
     
+
